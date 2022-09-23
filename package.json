@@ -1,0 +1,23 @@
+{
+  "name": "noteapp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KariimAlii/NoteApp2.git"
+  },
+  "author": "Karim Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KariimAlii/NoteApp2/issues"
+  },
+  "homepage": "https://github.com/KariimAlii/NoteApp2#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "validator": "^13.7.0"
+  }
+}
